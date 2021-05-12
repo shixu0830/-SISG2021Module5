@@ -15,17 +15,17 @@ Link to zoom sessions was emailed to participants (subtitle: "Welcome to SISG Mo
 
 * On your own: Simple Linear Regression -- Part 1 (**[video](https://www.youtube.com/embed/wEK9nDqf5lE)**, **[slides](/slides/1_SimpleLinearRegression.pdf)** pages 1-32)
 * On your own: Simple Linear Regression -- Part 2 (**[video](https://www.youtube.com/embed/yrJLAc3JwNo)**, **[slides](/slides/1_SimpleLinearRegression.pdf)** pages 32-58)
-* 1:15 -- 2:30PT: Questions and lab exercises 1--3  (**[labs](/slides/2020_SISG_5_Labs.pdf)**, **[solutions](/slides/2020_SISG_5_Labs_Solutions.pdf)**, **[R codes](/slides/2020_SISG_5_Labs_Code.R)**)
+* 1:15 -- 2:30PT: Questions and lab exercises 1--3  (**[labs](/slides/2021_SISG_5_Labs.pdf)**, **[solutions](/slides/2021_SISG_5_Labs_Solutions.pdf)**, **[R codes](/slides/2021_SISG_5_Labs_Code.R)**)
 
 **Tuesday 7/13**
 
 * On your own: Model checking -- Part 1 (**[video](https://www.youtube.com/embed/xFq7ie630gw)**, **[slides](/slides/2_ModelChecking.pdf)** pages 1-15)
 * On your own: Model checking -- Part 2 (**[video](https://www.youtube.com/embed/y5PDdHrsoTU)**, **[slides](/slides/2_ModelChecking.pdf)** pages 15-35)
-* 10:15 -- 11:30PT: Questions and lab exercises 4--6  (**[labs](/slides/2020_SISG_5_Labs.pdf)**, **[solutions](/slides/2020_SISG_5_Labs_Solutions.pdf)**, **[R codes](/slides/2020_SISG_5_Labs_Code.R)**)
+* 10:15 -- 11:30PT: Questions and lab exercises 4--6  (**[labs](/slides/2021_SISG_5_Labs.pdf)**, **[solutions](/slides/2021_SISG_5_Labs_Solutions.pdf)**, **[R codes](/slides/2021_SISG_5_Labs_Code.R)**)
 
 * On your own: Multiple linear regression -- Part 1 (**[video](https://www.youtube.com/embed/xOyBkKhVyyI)**, **[slides](/slides/3_MultipleLinearRegression.pdf)** pages 1-24)
 * On your own: Multiple linear regression -- Part 2 (**[video](https://www.youtube.com/embed/ioBIE2Kid-c)**, **[slides](/slides/3_MultipleLinearRegression.pdf)** pages 24-49)
-* 1:15 -- 2:30PT: Questions and lab exercises 7--8  (**[labs](/slides/2020_SISG_5_Labs.pdf)**, **[solutions](/slides/2020_SISG_5_Labs_Solutions.pdf)**, **[R codes](/slides/2020_SISG_5_Labs_Code.R)**)
+* 1:15 -- 2:30PT: Questions and lab exercises 7--8  (**[labs](/slides/2021_SISG_5_Labs.pdf)**, **[solutions](/slides/2021_SISG_5_Labs_Solutions.pdf)**, **[R codes](/slides/2021_SISG_5_Labs_Code.R)**)
 
 * On your own: One-way ANOVA (**[video](https://www.youtube.com/embed/rT0rjhS-Uio)**, **[slides](/slides/4_ANOVA_MultipleComparisons.pdf)** pages 1-44)
 
@@ -33,10 +33,10 @@ Link to zoom sessions was emailed to participants (subtitle: "Welcome to SISG Mo
 
 * On your own: Multiple comparisons and two-way ANOVA -- Part 1 (**[video](https://www.youtube.com/embed/vuF5xCVwYMs)**, **[slides](/slides/4_ANOVA_MultipleComparisons.pdf)** pages 45-68)
 * On your own: Multiple comparisons and two-way ANOVA -- Part 2 (**[video](https://www.youtube.com/embed/d5VKevXTRmg)**, **[slides](/slides/4_ANOVA_MultipleComparisons.pdf)** pages 68-93)
-* 10:15 -- 12:00PT: Questions and lab exercises 9--12  (**[labs](/slides/2020_SISG_5_Labs.pdf)**, **[solutions](/slides/2020_SISG_5_Labs_Solutions.pdf)**, **[R codes](/slides/2020_SISG_5_Labs_Code.R)**)
+* 10:15 -- 12:00PT: Questions and lab exercises 9--12  (**[labs](/slides/2021_SISG_5_Labs.pdf)**, **[solutions](/slides/2021_SISG_5_Labs_Solutions.pdf)**, **[R codes](/slides/2021_SISG_5_Labs_Code.R)**)
 
 * On your own: Logistic regression and generalized linear models -- Part 1 (**[video](https://www.youtube.com/embed/w-8D4GhHY60)**, **[slides](/slides/5_LogisticRegression.pdf)** pages 1-30)
 * On your own: Logistic regression and generalized linear models -- Part 2 (**[video](https://www.youtube.com/embed/uqCASD3TJ2c)**, **[slides](/slides/5_LogisticRegression.pdf)** pages 31-56)
-* 1:15 -- 2:30PT: Questions and lab exercises 13--17  (**[labs](/slides/2020_SISG_5_Labs.pdf)**, **[solutions](/slides/2020_SISG_5_Labs_Solutions.pdf)**, **[R codes](/slides/2020_SISG_5_Labs_Code.R)**)
+* 1:15 -- 2:30PT: Questions and lab exercises 13--17  (**[labs](/slides/2021_SISG_5_Labs.pdf)**, **[solutions](/slides/2021_SISG_5_Labs_Solutions.pdf)**, **[R codes](/slides/2021_SISG_5_Labs_Code.R)**)
 
 
