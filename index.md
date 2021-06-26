@@ -23,14 +23,14 @@ Link to zoom sessions was emailed to participants (subtitle: "Welcome to SISG Mo
 * On your own: Multiple linear regression -- Part 1 (**[video](https://youtu.be/C8ucMouUkgA)**, **[slides](/slides/3_MultipleLinearRegression.pdf)** pages 1-24)
 * On your own: Multiple linear regression -- Part 2 (**[video](https://youtu.be/glVDPDq89XI)**, **[slides](/slides/3_MultipleLinearRegression.pdf)** pages 24-49)
 * 10:15 -- 11:30PT: Questions and lab exercises 7--8  (**[labs](/slides/2021_SISG_5_Labs.pdf)**, **[solutions](/slides/2021_SISG_5_Labs_Solutions.pdf)**, **[R codes](/slides/2021_SISG_5_Labs_Code.R)**)
-* On your own: One-way ANOVA (**[video]( https://youtu.be/iizDxDvx5Uk)**, **[slides](/slides/4_ANOVA_MultipleComparisons.pdf)** pages 1-44)
-* On your own: Multiple comparisons and two-way ANOVA -- Part 1 (**[video](https://youtu.be/y4C8eFH8dto)**, **[slides](/slides/4_ANOVA_MultipleComparisons.pdf)** pages 45-68)
-* On your own: Multiple comparisons and two-way ANOVA -- Part 2 (**[video](https://youtu.be/4VcdwE7Olfk)**, **[slides](/slides/4_ANOVA_MultipleComparisons.pdf)** pages 68-93)
+* On your own: One-way ANOVA (**[video]( https://youtu.be/iizDxDvx5Uk)**, **[slides](/slides/4_OneWayANOVA.pdf)** pages 1-44)
+* On your own: Multiple comparisons and two-way ANOVA -- Part 1 (**[video](https://youtu.be/y4C8eFH8dto)**, **[slides](/slides/5_MultipleComparisons_TwoWayANOVA.pdf)** pages 45-68)
+* On your own: Multiple comparisons and two-way ANOVA -- Part 2 (**[video](https://youtu.be/4VcdwE7Olfk)**, **[slides](/slides/5_MultipleComparisons_TwoWayANOVA.pdf)** pages 68-93)
 * 1:15 -- 2:00PT: Questions and lab exercises 9--12  (**[labs](/slides/2021_SISG_5_Labs.pdf)**, **[solutions](/slides/2021_SISG_5_Labs_Solutions.pdf)**, **[R codes](/slides/2021_SISG_5_Labs_Code.R)**)
 
 **Wednesday 7/14**
-* On your own: Logistic regression and generalized linear models -- Part 1 (**[video](https://youtu.be/h12mvtkqj3c)**, **[slides](/slides/5_LogisticRegression.pdf)** pages 1-30)
-* On your own: Logistic regression and generalized linear models -- Part 2 (**[video](https://youtu.be/0Dgu5h7MwCs)**, **[slides](/slides/5_LogisticRegression.pdf)** pages 31-56)
+* On your own: Logistic regression and generalized linear models -- Part 1 (**[video](https://youtu.be/h12mvtkqj3c)**, **[slides](/slides/6_LogisticRegression.pdf)** pages 1-30)
+* On your own: Logistic regression and generalized linear models -- Part 2 (**[video](https://youtu.be/0Dgu5h7MwCs)**, **[slides](/slides/6_LogisticRegression.pdf)** pages 31-56)
 * 10:15 -- 11:30PT: Questions and lab exercises 13--17  (**[labs](/slides/2021_SISG_5_Labs.pdf)**, **[solutions](/slides/2021_SISG_5_Labs_Solutions.pdf)**, **[R codes](/slides/2021_SISG_5_Labs_Code.R)**)
 
 
