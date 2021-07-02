@@ -1,4 +1,4 @@
-## SISG2020 R code for exercises
+## SISG2021 R code for exercises
 
 ## Load data
 cholesterol = read.csv("https://raw.githubusercontent.com/rhubb/SISG2021/master/data/SISG-Data-cholesterol.csv", head=T)
