@@ -12,7 +12,7 @@ Link to zoom sessions will be emailed to participants (subtitle: "Welcome to SIS
 ### Schedule
 
 **Monday 7/12**
-* On your own: Simple Linear Regression -- Part 1 (**[video](https://youtu.be/DbhWwBIlN-s)**, **[slides](/slides/1_SimpleLinearRegression.pdf)** pages 1-32)
+* On your own: Simple Linear Regression -- Part 1 (**[video](https://youtu.be/Hrbx_6zkxzw)**, **[slides](/slides/1_SimpleLinearRegression.pdf)** pages 1-32)
 * On your own: Simple Linear Regression -- Part 2 (**[video](https://youtu.be/vqfW5-ts9_U)**, **[slides](/slides/1_SimpleLinearRegression.pdf)** pages 32-58)
 * Live session 10:15 -- 11:30PT: Questions and lab exercises 1--3  (**[labs](/slides/2021_SISG_5_Labs.pdf)**, **[solutions](/slides/2021_SISG_5_Labs_Solutions.pdf)**, **[R codes](/slides/2021_SISG_5_Labs_Code.R)**)
 * On your own: Model checking -- Part 1 (**[video](https://youtu.be/ijHe7pmkcIQ)**, **[slides](/slides/2_ModelChecking.pdf)** pages 1-15)
@@ -20,7 +20,7 @@ Link to zoom sessions will be emailed to participants (subtitle: "Welcome to SIS
 * Live session 1:15 -- 2:30PT: Questions and lab exercises 4--6  (**[labs](/slides/2021_SISG_5_Labs.pdf)**, **[solutions](/slides/2021_SISG_5_Labs_Solutions.pdf)**, **[R codes](/slides/2021_SISG_5_Labs_Code.R)**)
 
 **Tuesday 7/13**
-* On your own: Multiple linear regression -- Part 1 (**[video](https://youtu.be/C8ucMouUkgA)**, **[slides](/slides/3_MultipleLinearRegression.pdf)** pages 1-24)
+* On your own: Multiple linear regression -- Part 1 (**[video](https://youtu.be/slc_HqJmZr8)**, **[slides](/slides/3_MultipleLinearRegression.pdf)** pages 1-24)
 * On your own: Multiple linear regression -- Part 2 (**[video](https://youtu.be/glVDPDq89XI)**, **[slides](/slides/3_MultipleLinearRegression.pdf)** pages 24-49)
 * Live session 10:15 -- 11:30PT: Questions and lab exercises 7--8  (**[labs](/slides/2021_SISG_5_Labs.pdf)**, **[solutions](/slides/2021_SISG_5_Labs_Solutions.pdf)**, **[R codes](/slides/2021_SISG_5_Labs_Code.R)**)
 * On your own: One-way ANOVA (**[video]( https://youtu.be/iizDxDvx5Uk)**, **[slides](/slides/4_OneWayANOVA.pdf)** pages 1-44)
